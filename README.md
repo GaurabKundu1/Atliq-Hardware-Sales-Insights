@@ -63,3 +63,6 @@
   -	Sales team able to take better decision & prove 10% cost savings of total spend.
   -	Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
 
+## Data Analyst Approach
+
+<img src="https://github.com/GaurabKundu1/Atliq-Hardware-Sales-Insights/assets/86102231/c887ded6-603f-4469-b380-6893f3a8398f">
