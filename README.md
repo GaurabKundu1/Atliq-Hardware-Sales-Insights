@@ -139,3 +139,15 @@ AND (transactions.currency = 'INR' OR transactions.currency = 'USD');
 <img src="https://github.com/GaurabKundu1/Atliq-Hardware-Sales-Insights/assets/86102231/fe3cba37-c812-42c3-bd8e-150487123ca3">
 
 The Dashboards Can be Accessible Here : [Atliq Hardware Sales Insights](https://public.tableau.com/views/AtliqHardwareSalesInsights_16997131869620/RevenueAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+## Recommendation
+
+- Should Maintain healthy relationship with the customers in Bhubaneshwar, Surat, Patna as they are highest profit % by market.
+
+- Make some stategy for Bengaluru market as its revenue are less and also profit % are in negative.
+
+- Figure out what need to be done as sales quantity in Kanpur, Bengaluru, Patna, Bhubaneshwar, Surat are the lowest.
+
+- North zone have highest revenue contribution but lowest profit % whereas South zone have lowest revenue contribution but highest profit %. Try to increase customers in South zone.
+
+- Delhi is the highest revenue contibutor and eightth highest profit contributor whereas Mumbai is the second highest revenue contributor and sixth highest profit contributor. So its need to be implement the same market strategy as in mumbai to increase the profit % in Delhi.
