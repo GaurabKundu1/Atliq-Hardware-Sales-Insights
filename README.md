@@ -129,3 +129,7 @@ AND (transactions.currency = 'INR' OR transactions.currency = 'USD');
 - Creating Star Schema in Tableau
 
 <img src="https://github.com/GaurabKundu1/Atliq-Hardware-Sales-Insights/assets/86102231/7c2365ff-e2e2-43fe-95a3-6d84aaaa9e1a">
+
+## Tableau Dashboard : Revenue Analysis
+
+<img src="https://github.com/GaurabKundu1/Atliq-Hardware-Sales-Insights/assets/86102231/7cf64477-7800-443f-8a06-15f26fc72368">
