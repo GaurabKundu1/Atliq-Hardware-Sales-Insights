@@ -81,7 +81,7 @@
 
 ## Data Analysis Using SQL
 
-```
+```sql
 -- Show all customer records
 SELECT * FROM customers;
 
