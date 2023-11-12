@@ -66,3 +66,15 @@
 ## Data Analyst Approach
 
 <img src="https://github.com/GaurabKundu1/Atliq-Hardware-Sales-Insights/assets/86102231/c887ded6-603f-4469-b380-6893f3a8398f">
+
+### Setup Process
+
+- Step 1: Download file: db_dump.sql or db_dump.xlsx.
+
+- Step 2: Import it in MySql do ETL(Extract, Transform, Load) if required.
+
+- Step 3: Download Tableau Public (Free) or Tableau Desktop (14 days trial) to perform Data Analysis.
+
+- Step 4: Connect Tableau with MySql database or Excel database.
+
+- Step 5: Save the file as (.twb or .twbx).
