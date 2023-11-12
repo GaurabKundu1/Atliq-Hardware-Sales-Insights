@@ -1,2 +1,3 @@
-# Atliq-Hardware-Sales-Insights
-This Repo contains The Atliq Hardware Sales Insights Tableau Report Inspired by Codebasics YouTube Channel
+# Atliq Hardware Sales Insights
+
+## A Sales Insights Report Created by [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu/)
