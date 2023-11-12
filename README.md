@@ -133,3 +133,7 @@ AND (transactions.currency = 'INR' OR transactions.currency = 'USD');
 ## Tableau Dashboard : Revenue Analysis
 
 <img src="https://github.com/GaurabKundu1/Atliq-Hardware-Sales-Insights/assets/86102231/7cf64477-7800-443f-8a06-15f26fc72368">
+
+## Tableau Dashboard : Profit Analysis
+
+<img src="https://github.com/GaurabKundu1/Atliq-Hardware-Sales-Insights/assets/86102231/fe3cba37-c812-42c3-bd8e-150487123ca3">
