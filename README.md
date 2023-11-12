@@ -48,10 +48,10 @@
 
 ### Stake Holders: Who will be involved?
 
- •	Sales Director
- •	I.T. Team
- •	Customer Service Team
- •	Data & Analytics Team
+ -	Sales Director
+ -	I.T. Team
+ -	Customer Service Team
+ -	Data & Analytics Team
 
 ### End Result: What do we want to achieve?
 
@@ -59,7 +59,7 @@
 
 ### Success Criteria: What will be our success criteria?
 
-  •	Dashboards uncovering sales order insights with latest data available.
-  •	Sales team able to take better decision & prove 10% cost savings of total spend.
-  •	Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
+  -	Dashboards uncovering sales order insights with latest data available.
+  -	Sales team able to take better decision & prove 10% cost savings of total spend.
+  -	Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
 
