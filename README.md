@@ -122,3 +122,10 @@ WHERE date.year = 2020
 AND date.month_name = 'January'
 AND (transactions.currency = 'INR' OR transactions.currency = 'USD');
 ```
+
+## Data Analysis Using Tableau
+
+- Tableau Dashboards: Revenue & Profit Analysis
+- Creating Star Schema in Tableau
+
+<img src="https://github.com/GaurabKundu1/Atliq-Hardware-Sales-Insights/assets/86102231/7c2365ff-e2e2-43fe-95a3-6d84aaaa9e1a">
